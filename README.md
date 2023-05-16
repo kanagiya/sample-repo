@@ -1,2 +1,3 @@
 # sample-repo
-exercise in Git
+Revised
+
